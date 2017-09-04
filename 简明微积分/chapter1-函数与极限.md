@@ -27,3 +27,5 @@
 
     若`$f(t)$`在`$[a,b]$`上连续，`$r$`是介于`$f(a)$`与`$f(b)$`之间的任意数（即`$f(a) < r < f(b)$`，或者`$f(b) < r < f(a)$`），则必存在`$c \in (a, b)$`使得`$f(c) = r$`。
 - 闭区间上的连续函数存在**最大值**和**最小值**
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
