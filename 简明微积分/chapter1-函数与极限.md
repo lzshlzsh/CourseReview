@@ -11,11 +11,11 @@ $$
 
 且可以证明，
 - 两个数列各对应项的和、差、积、商组成的数列的极限，分别等于两个数列的极限的和、差、积、商。
-- 如果$a_n \leqslant b_n \leqslant c_n$，则$\lim_{n \to \infty}a_n \leqslant \lim_{n \to \infty}b_n \leqslant \lim_{n \to \infty}c_n$
+- 如果$a_n \le b_n \le c_n$，则$\lim_{n \to \infty}a_n \le \lim_{n \to \infty}b_n \le \lim_{n \to \infty}c_n$
 
 函数的极限$\lim_{x \to \infty}f(x) = A$可证明有类似的性质
 - 两个函数的和、差、积、商的极限，分别等于极限的和、差、积、商。
-- 夹逼性质：如果$f(x) \leqslant h(x) \leqslant g(x)$，且$\lim_{x \to \infty}f(x) = \lim_{x \to \infty}g(x) = A$，那么$\lim_{x \to \infty}h(x) = A$
+- 夹逼性质：如果$f(x) \le h(x) \le g(x)$，且$\lim_{x \to \infty}f(x) = \lim_{x \to \infty}g(x) = A$，那么$\lim_{x \to \infty}h(x) = A$
 
 ### 连续函数
 - 定义
