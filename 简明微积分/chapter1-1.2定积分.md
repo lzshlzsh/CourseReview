@@ -10,7 +10,7 @@
     其中$\Delta x_i = x_i - x_{i-1}$，$\xi_i \in [x_{i-1}, x_i]$。
 - 定积分
 
-    令$\lambda(T) = \max{\Delta x_i | 1 \le i \le n}$，则
+    令$\lambda(T) = \max \{ \Delta x_i | 1 \le i \le n \}$，则
     $$
     I = \lim_{\lambda(T) \to 0} \sigma = 
     \lim_{n \to \infty} \sigma = \int_{a}^{b}f(x)dx
